@@ -57,7 +57,6 @@ func_category Additional-distro-specific
 list=(
 arandr
 gmrun
-gtk-engine-murrine
 imagemagick
 lxappearance
 lxrandr
