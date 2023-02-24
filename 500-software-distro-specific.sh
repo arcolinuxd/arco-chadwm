@@ -64,7 +64,6 @@ nitrogen
 picom
 playerctl
 python-pywal
-volumeicon
 w3m
 urxvt-resize-font-git
 xfce4-appfinder

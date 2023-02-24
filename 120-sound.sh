@@ -57,7 +57,7 @@ function_pulseaudio() {
 	gst-plugins-base
 	gst-plugins-ugly
 	playerctl
-	volumeicon
+	pa-applet
 	)
 
 	count=0
