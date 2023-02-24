@@ -57,7 +57,7 @@ function_pulseaudio() {
 	gst-plugins-base
 	gst-plugins-ugly
 	playerctl
-	pa-applet
+	pa-applet-git
 	)
 
 	count=0
