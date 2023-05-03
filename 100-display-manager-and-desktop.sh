@@ -63,6 +63,7 @@ feh
 rofi
 arcolinux-rofi-git
 picom
+ttf-jetbrains-mono-nerd
 )
 
 count=0
