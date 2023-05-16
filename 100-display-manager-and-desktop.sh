@@ -64,6 +64,7 @@ rofi
 arcolinux-rofi-git
 picom
 ttf-jetbrains-mono-nerd
+ttf-meslo-nerd-font-powerlevel10k
 )
 
 count=0
