@@ -48,6 +48,7 @@ echo "Installation of the core software"
 
 list=(
 sddm
+arcolinux-powermenu-git
 arcolinux-wallpapers-git
 thunar
 thunar-archive-plugin
