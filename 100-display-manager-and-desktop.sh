@@ -61,7 +61,7 @@ archlinux-logout-git
 dmenu
 sxhkd
 feh
-rofi
+rofi-lbonn-wayland
 arcolinux-rofi-git
 picom
 ttf-jetbrains-mono-nerd
